@@ -38,7 +38,6 @@ if(count($result) > 0){
   		
   		echo "<td>" . $row['month'] . "/" . $row['year'] . "</td>";
   		echo "<td>" . "<a href=\"month_detail.php?&month=". $row['month'] . $row['year'] ."\">View Holiday</a>" . "</td>";
-  		//echo "<td>" . "<a href=\"employee_edit.php?&emp_id=". $row['emp_id']."\">Edit</a>" . "</td>";
   		echo "</tr>";
  }	
 }
