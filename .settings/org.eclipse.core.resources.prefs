@@ -1,0 +1,18 @@
+#Fri May 27 14:47:37 ICT 2011
+eclipse.preferences.version=1
+encoding//database/J_MySQL.php=UTF-8
+encoding//database/config.php=UTF-8
+encoding/cal_sal_addtxt.php=UTF-8
+encoding/cal_sal_calculate.php=UTF-8
+encoding/cal_sal_calculate2.php=UTF-8
+encoding/cal_sal_calculate_edit.php=UTF-8
+encoding/cal_sal_calculate_view.php=UTF-8
+encoding/cal_sal_genPDF.php=UTF-8
+encoding/cal_sal_genPDF2.php=UTF-8
+encoding/employee_add.php=UTF-8
+encoding/employee_manage.php=UTF-8
+encoding/example.php=UTF-8
+encoding/index.php=UTF-8
+encoding/test_file.php=UTF-8
+encoding/txt_to_db.php=UTF-8
+encoding/upload_file.php=UTF-8

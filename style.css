@@ -1,0 +1,272 @@
+<style type="text/css">
+
+#button1 {
+	font-family: Tahoma;
+	margin-left: 0px;
+	margin-bottom: 5px;
+	margin-right: 0px;
+	margin-top: 5px;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color:#ffffff;
+	border:1px solid #99CC33;
+  	background-color:#99CC33;
+  	font-size: 16px;
+}
+#button1:hover{
+	color:#000000;
+  	border:1px solid #99CC33;
+  	background-color:#CCFF99;
+}
+#button2 {
+	font-family: Tahoma;
+	margin-right: -1px;
+	margin-left: -1px;
+	color:#ffffff;
+  	border:1px solid #99CC33;
+  	background-color:#99CC33;
+  	font-size: 14px;
+}
+#button2:hover{
+	color:#000000;
+  	border:1px solid #99CC33;
+  	background-color:#CCFF99;
+}
+#centering { 
+	margin: auto;  
+	text-align: center;	
+}
+#p1 {  
+	font-style: italic;  
+	font-weight: bold;  
+	margin: auto;  
+	text-align: left;
+	width :40%;	
+	font-size: 30px;
+	color: #99CC33; 
+}
+#p2 {  
+	font-style: italic;  
+	font-weight: bold;  
+	margin: auto;  
+	text-align: left;
+	width :90%;	
+	font-size: 24px;
+	color: #99CC33; 
+}
+
+#p3 {  
+	font-style: italic;  
+	font-weight: bold;  
+	margin: auto;  
+	text-align: left;
+	width :60%;	
+	font-size: 30px;
+	color: #99CC33; 
+}
+#error_messege {
+	font-size: 14px;
+	font-style: italic;
+	color:red;
+}
+ 
+#table-a {	
+	font-family: Tahoma;	
+	width :40%;
+	text-align:center;
+	margin: auto;
+	font-size: 16px; 
+	border-collapse: collapse;
+}
+#table-a th {	
+	padding: 5px;	
+	font-size: 16px;
+	background-color: #99CC33;
+	color: white;
+	border-spacing: 10px 10px; 	
+	border-collapse:collapse;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #99CC33;
+}
+#table-a td { 	
+	font-size: 16px; 	
+	padding: 3px; 	
+	border-collapse:collapse;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #99CC33;
+}
+#table-a tr:hover td {
+	background: #d0dafd; 
+}
+
+#table-b {	
+	margin-left: auto;	
+	margin-bottom: 10px;	
+	margin-right: auto;	
+	margin-top: 10px;	
+	text-align:center;
+	font-family: Tahoma;	
+	width :30%;
+	font-size: 16px; 
+	border-collapse: collapse;
+	border-collapse:collapse;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #99CC33;
+}
+#table-b th {	
+	margin: auto;	
+	padding: 5px;	
+	font-style: italic;	
+	font-size: 16px;
+	background-color: #99CC33;
+	color: white;
+	border-spacing: 10px 10px; 	
+} 
+#table-b td {	
+	font-size: 16px;	
+	padding: 3px;	
+	border-spacing: 10px 10px; 	
+} 
+
+#table-c {
+	background-color: #c2ef92;
+	margin: auto;
+	font-family: Tahoma;	
+	width :40%;	
+	font-size: 16px; 
+	border-collapse: collapse;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #99CC33;
+}
+#table-c th {	
+	margin: auto;	
+	padding: 5px;	
+	font-style: italic;	
+	font-size: 16px;
+	background-color: #99CC33;
+	color: white;
+	border-spacing: 10px 10px; 	
+} 
+#table-c td { 	
+	vertical-align: top;
+	padding-top: 10px;	
+	padding-left: 10px;	
+	padding-bottom: 10px;	
+	padding-right: 10px;
+	border-spacing: 5px 5px;
+}
+
+#table-d {	
+	font-family: Tahoma;	
+	width :90%;
+	text-align:center;
+	margin: auto;
+	font-size: 16px; 
+	border-collapse: collapse;
+}
+#table-d th {	
+	padding: 5px;	
+	font-size: 16px;
+	background-color: #99CC33;
+	color: white;
+	border-spacing: 10px 10px; 	
+	border-collapse:collapse;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #99CC33;
+}
+#table-d td { 	
+	font-size: 16px; 	
+	padding: 3px; 	
+	border-collapse:collapse;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #99CC33;
+}
+#table-d tr:hover td {
+	background: #d0dafd; 
+}
+
+#table-e {	
+	font-family: Tahoma;	
+	width :60%;
+	text-align:center;
+	margin: auto;
+	font-size: 16px; 
+	border-collapse: collapse;
+}
+#table-e th {	
+	padding: 5px;	
+	font-size: 16px;
+	background-color: #99CC33;
+	color: white;
+	border-spacing: 10px 10px; 	
+	border-collapse:collapse;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #99CC33;
+}
+#table-e td { 	
+	font-size: 16px; 	
+	padding: 3px; 	
+	border-collapse:collapse;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #99CC33;
+}
+#table-e tr:hover td {
+	background: #d0dafd; 
+}
+
+#table-f {	
+	font-family: Tahoma;	
+	width :100%;
+	text-align:center;
+	margin: auto;
+	font-size: 20px; 
+	border-collapse: collapse;
+}
+#table-f th {	
+	padding: 5px;	
+	font-size: 16px;
+	background-color: #99CC33;
+	color: white;
+	border-spacing: 10px 10px; 	
+	border-collapse:collapse;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #99CC33;
+}
+#table-f tr { 	
+	height :30px;
+}
+#table-f td { 	
+	font-size: 16px; 	
+	padding: 3px; 	
+	border-collapse:collapse;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+}
+.v-text {
+	writing-mode: tb-rl;
+}
+/* ---------------------- Menu ---------------------- */
+#time4bed-nav{position:relative;height:43px;font-size:14px;text-transform:uppercase;background:#fff url("images/time4bed_bg.gif") repeat-x bottom left;font-family:Georgia, "Times New Roman", Times, serif;}
+#time4bed-nav ul{margin:0;padding:0;list-style-type:none;width:auto;float:left;}
+#time4bed-nav ul li{display:block;float:left;margin:0 2px;}
+#time4bed-nav ul li a{display:block;float:left;color:#ccffcc;text-decoration:none;padding:0 0 0 25px;height:43px;line-height:50px;}
+#time4bed-nav ul li a span{display:block;float:left;padding:0 25px 0 0;height:31px;width:auto;}
+#time4bed-nav ul li a:hover{color:#fff;}
+#time4bed-nav ul li a:hover span{display:block;cursor:pointer;}
+#time4bed-nav ul li a.current,#time4bed-nav ul li a.current:hover{color:#006633;background:transparent url("images/time2bed_left-ON.gif") no-repeat top left;}
+#time4bed-nav ul li a.current span{background:transparent url("images/time2bed_right-ON.gif") no-repeat top right;height:43px;}
+/* ---------------------- END Menu ---------------------- */
+
+</style>
